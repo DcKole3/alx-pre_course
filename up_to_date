@@ -1,1 +1,1 @@
-git diff --output=README.md
+git diff -p --output=README.md
